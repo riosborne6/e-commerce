@@ -11,6 +11,8 @@ This code deals with the back end for an e commerce company.
 ```git clone git@github.com:riosborne6/e-commerce.git
 
 
+#Video of how to use via Insomnia
+https://drive.google.com/file/d/1du7Ip3wm22n0wAs6UsQyzdBSbT2eGrAv/view
 
 
 ## Contributing
